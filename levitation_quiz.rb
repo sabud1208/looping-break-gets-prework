@@ -1,3 +1,5 @@
 def levitation_quiz
-	#your code he
+	loop do
+	  puts
+	end
 end
